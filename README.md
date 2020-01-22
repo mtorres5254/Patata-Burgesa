@@ -39,4 +39,6 @@ Interesting Documents:
  
  * Instructions translations.
  * Better and colorized art for the cards.
+ * Uploading all the game info in the GitHub wiki site.
+ * Other unpredicted changes...
  
