@@ -31,4 +31,12 @@ Interesting Documents:
  
  ### Changelog
  
- ### Futures Updates.
+  * Pre-01. The "Patata Burgesa" internet update:
+    
+      The Game is uploaded on this site with all the components.
+ 
+ ### Futures Changes.
+ 
+ * Instructions translations.
+ * Better and colorized art for the cards.
+ 
