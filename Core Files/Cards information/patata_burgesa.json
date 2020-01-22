@@ -1,0 +1,161 @@
+[
+  {
+    "count": "1",
+    "title": "Patata Burgesa",
+    "contents": [
+      "picture | https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/patata-burgesa.jpg | 200",
+      "subtitle| Acció:",
+      "rule",
+      "text |  Qui tingui aquesta carta en acabar el joc, guanya.",
+      "property | Carta Única| "
+    ],
+    "tags": [],
+    "color": "darkgoldenrod",
+    "title_size": "",
+    "icon_back": "potato",
+    "icon": "cash",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "title": "Rei Patatrick I",
+    "contents": [
+      "picture | https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/patata-rei.jpg | 198",
+      "subtitle| Acció:",
+      "rule",
+      "text |  Quan es juga aquesta carta, es descarten totes les cartes, es mesclen i es tornen a repartir.",
+      "property | Carta Especial|"
+    ],
+    "tags": [],
+    "color": "darkgoldenrod",
+    "icon_back": "potato",
+    "icon": "chess-king"
+  },
+  {
+    "count": 1,
+    "title": "Reina Patatòfona III",
+    "contents": [
+      "picture | https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/reina.bmp | 198",
+      "subtitle| Acció:",
+      "rule",
+      "text |  Quan es juga aquesta carta, tots els jugadors donen les seves cartes al jugador de la seva esquerra.",
+      "property | Carta Especial|"
+    ],
+    "tags": [],
+    "color": "darkgoldenrod",
+    "icon": "queen-crown",
+    "icon_back": "potato"
+  },
+  {
+    "count": "4",
+    "title": "Patata Noble",
+    "contents": [
+      "picture | https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/patata-noble.jpg | 200",
+      "subtitle| Acció:",
+      "rule",
+      "text |  Quan es juga aquesta carta, qui l'hagi jugat pot robar una carta a la resta dels jugadors."
+    ],
+    "tags": [],
+    "color": "darkgoldenrod",
+    "icon_back": "potato",
+    "icon": "laurels"
+  },
+  {
+    "count": "5",
+    "title": "Patates Barda",
+    "contents": [
+      "picture | https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/patata-barda.jpg | 200",
+      "subtitle| Acció:",
+      "rule",
+      "text |  Quan es juga aquesta carta, qui l'hagi jugat pot robar una carta a un jugador."
+    ],
+    "tags": [],
+    "color": "darkgoldenrod",
+    "icon_back": "potato",
+    "icon": "class-bard"
+  },
+  {
+    "count": "4",
+    "title": "Patata Clerical",
+    "contents": [
+      "picture | https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/clerical.bmp | 200",
+      "subtitle| Acció:",
+      "rule",
+      "text |  Quan es juga aquesta carta, tothom roba dos cartes del jugador de la seva dreta."
+    ],
+    "tags": [],
+    "color": "darkgoldenrod",
+    "icon": "class-cleric",
+    "icon_back": "potato"
+  },
+  {
+    "count": "5",
+    "title": "Patata Artesana",
+    "contents": [
+      "picture | https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/patata-artesana.jpg| 200",
+      "subtitle| Acció:",
+      "rule",
+      "text | Quan es juga aquesta carta, la resta dels jugadors descarta una carta."
+    ],
+    "tags": [],
+    "color": "darkgoldenrod",
+    "icon_back": "potato",
+    "icon": "hand-saw"
+  },
+  {
+    "count": "12",
+    "title": "Patata Obrera",
+    "contents": [
+      "picture | https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/obrera.bmp | 200",
+      "subtitle| Acció:",
+      "rule",
+      "text | Aquesta carta no té cap acció especial."
+    ],
+    "tags": [],
+    "color": "darkgoldenrod",
+    "icon": "mining",
+    "icon_back": "potato"
+  },
+  {
+    "count": 1,
+    "title": "Princep Patatúm II ",
+    "contents": [
+      "picture | https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/princep.png | 200",
+      "subtitle| Acció:",
+      "rule",
+      "text |  Quan es juga aquesta carta, intercanvia totes les teves cartes amb les d'un altre jugador."
+    ],
+    "tags": [],
+    "color": "darkgoldenrod",
+    "icon_back": "potato",
+    "icon": "crowned-heart"
+  },
+  {
+    "count": "4",
+    "title": "Patata Paladí",
+    "contents": [
+      "picture | https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/paladin.png | 200",
+      "subtitle| Acció:",
+      "rule",
+      "text |  Quan es juga aquesta carta, otorga inmunitat a altres cartes fins a l'inici del torn del jugador que l'hagi jugada."
+    ],
+    "tags": [],
+    "color": "darkgoldenrod",
+    "icon_back": "potato",
+    "icon": "black-knight-helm"
+  },
+  {
+    "count": "4",
+    "title": "Patata Anàrquica",
+    "contents": [
+      "picture | https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/anarquica.png | 200",
+      "subtitle| Acció:",
+      "rule",
+      "text |  Quan es juga aquesta carta, pot obligar a un altre jugador a descartar la meitat de les seves cartes"
+    ],
+    "tags": [],
+    "color": "",
+    "icon_back": "potato",
+    "icon": "anarchy"
+  }
+]
