@@ -27,15 +27,16 @@ Interesting Documents:
   [Instructions for use](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions%20-%20Patata%20Burgesa.pdf)
   
  
- ## Game Updates
+
+## Game Updates
  
- ### Changelog
+### Changelog
  
   * Pre-01. The "Patata Burgesa" internet update:
     
       The Game is uploaded on this site with all the components.
  
- ### Futures Changes.
+### Futures Changes.
  
  * Instructions translations.
  * Better and colorized art for the cards.
