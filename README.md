@@ -1,5 +1,8 @@
 # Patata-Burgesa
 A satiric potato-medieval like card game
+Instagram: @PatataBurgesa
+
+![logo](https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/Core%20Files/Recurso%201.png)
 
 ## Català:
 
@@ -16,13 +19,15 @@ Documents interessants:
   [Instruccions d'utilització.](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions%20-%20Patata%20Burgesa.pdf)
 
 
+
+
 ## English:
 
 The "Patata Burgesa" is a card game set in the Medieval-Potato universe, where your objective is to do everything in your power to secure and mantain the most fantastical potato, the "Patata Burgesa" card.
 
 To achieve this, you will have to make use of the other potato card, but be careful, because the "Patata Burgesa" card always goes out of your hand.
 
-Interesting Documents:
+Interesting documents:
 
   [Print & Play (the full game free, but you'll have to print it).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Print%20%26%20Play%20-%20Patata%20Burgesa.pdf)
   
@@ -31,19 +36,4 @@ Interesting Documents:
   [Instructions for use](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions%20-%20Patata%20Burgesa.pdf)
   
  
-
-## Game Updates
- 
-### Changelog
- 
-  * Pre-01. The "Patata Burgesa" internet update:
-    
-      The Game is uploaded on this site with all the components.
- 
-### Futures Changes.
- 
- * Instructions translations.
- * Better and colorized art for the cards.
- * Uploading all the game info in the GitHub wiki site.
- * Other unpredicted changes...
  
