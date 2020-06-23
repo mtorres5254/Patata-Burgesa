@@ -11,7 +11,7 @@ Documents interessants:
 
   [Print & Play (el joc gratis, però l'imprimeixes tu!).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Print%20%26%20Play%20-%20Patata%20Burgesa.pdf)
   
-  [Print & Play v2(sense les cares del darrera, per gastar menys paper).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Print%20%26%20Play%20-%20Patata%20Burgesa.pdf)
+  [Print & Play v2(sense les cares del darrera, per gastar menys paper).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Patata%20Burgesa%20v2.pdf)
   
   [Instruccions d'utilització.](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions%20-%20Patata%20Burgesa.pdf)
 
