@@ -26,6 +26,8 @@ Interesting Documents:
 
   [Print & Play (the full game free, but you'll have to print it).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Print%20%26%20Play%20-%20Patata%20Burgesa.pdf)
   
+  [Print & Play v2(without the back side of the cards, to save paper).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Patata%20Burgesa%20v2.pdf)
+  
   [Instructions for use](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions%20-%20Patata%20Burgesa.pdf)
   
  
