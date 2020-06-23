@@ -1,6 +1,6 @@
 # Patata-Burgesa
 A satiric potato-medieval like card game
-Instagram: @PatataBurgesa
+
 
 ![logo](https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/Core%20Files/Recurso%201.png)
 
@@ -36,4 +36,8 @@ Interesting documents:
   [Instructions for use](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions%20-%20Patata%20Burgesa.pdf)
   
  
+ ## Contacte:
  
+ Ens pots trobar a traves d'instagram a @PatataBurgesa
+ 
+ O be ens pots enviar un correu a PatataBurgesa@gmail.com
