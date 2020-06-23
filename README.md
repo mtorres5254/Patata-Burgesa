@@ -35,7 +35,6 @@ Interesting documents:
   
   [Instructions for use](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions%20-%20Patata%20Burgesa.pdf)
   
- 
  ## Contacte:
  
  Ens pots trobar a traves d'instagram a @PatataBurgesa
