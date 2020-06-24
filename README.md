@@ -20,7 +20,6 @@ Documents interessants:
 
 
 
-
 ## English:
 
 The "Patata Burgesa" is a card game set in the Medieval-Potato universe, where your objective is to do everything in your power to secure and mantain the most fantastical potato, the "Patata Burgesa" card.
@@ -35,7 +34,7 @@ Interesting documents:
   
   [Instructions for use](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions%20-%20Patata%20Burgesa.pdf)
   
- ## Contacte:
+## Contacte:
  
  Ens pots trobar a traves d'instagram a @PatataBurgesa
  
