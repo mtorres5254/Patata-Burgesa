@@ -1,5 +1,5 @@
-# Patata-Burgesa
-A satiric potato-medieval like card game
+# Patata Burgesa
+The most satiric game about potatos and the bourgeoisie.
 
 ## Català:
 
