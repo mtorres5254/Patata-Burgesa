@@ -1,9 +1,6 @@
 # Patata-Burgesa
 A satiric potato-medieval like card game
 
-
-![logo](https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/Core%20Files/Recurso%201.png)
-
 ## Català:
 
 La Patata Burgesa és un joc de cartes inspirat en l'univers Medieval de les Patates, on el teu objectiu es aconseguir i mantenir la patata mes fantastica i fenomenal de totes, la Patata Burgesa.
@@ -33,6 +30,8 @@ Interesting documents:
   [Print & Play v2(without the back side of the cards, to save paper).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Patata%20Burgesa%20v2.pdf)
   
   [Instructions for use](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions%20-%20Patata%20Burgesa.pdf)
+  
+
   
 ## Contacte:
  
