@@ -9,11 +9,11 @@ Per aconsegui-ho, hauràs de fer us de les altres patates d'aquest mon, pero no 
 
 Documents interessants:
 
-  [Print & Play (el joc gratis, però l'imprimeixes tu!).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Print%20%26%20Play%20-%20Patata%20Burgesa.pdf)
+  [Print & Play (el joc gratis, però l'imprimeixes tu!).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Print%20%26%20Play/Catalan/Print%20%26%20%20Play.pdf)
   
-  [Print & Play v2(sense les cares del darrera, per gastar menys paper).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Patata%20Burgesa%20v2.pdf)
+  [Print & Play v2(sense les cares del darrera, per gastar menys paper).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Print%20%26%20Play/Catalan/Print%20%26%20Play%20-%20paper%20free.pdf)
   
-  [Instruccions d'utilització.](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions%20-%20Patata%20Burgesa.pdf)
+  [Instruccions d'utilització.](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions/Catalan.pdf)
 
 
 
@@ -25,16 +25,16 @@ To achieve this, you will have to make use of the other potato card, but be care
 
 Interesting documents:
 
-  [Print & Play (the full game free, but you'll have to print it).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Print%20%26%20Play%20-%20Patata%20Burgesa.pdf)
+  [Print & Play (the full game free, but you'll have to print it).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Print%20%26%20Play/Catalan/Print%20%26%20%20Play.pdf)
   
-  [Print & Play v2(without the back side of the cards, to save paper).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Patata%20Burgesa%20v2.pdf)
+  [Print & Play v2(without the back side of the cards, to save paper).](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Print%20%26%20Play/Catalan/Print%20%26%20Play%20-%20paper%20free.pdf)
   
-  [Instructions for use](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions%20-%20Patata%20Burgesa.pdf)
+  [Instructions for use](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions/English.pdf)
   
 
   
-## Contacte:
+## Contacte / Contact:
  
- Ens pots trobar a traves d'instagram a @PatataBurgesa
+ Instagram: @PatataBurgesa
  
- O be ens pots enviar un correu a PatataBurgesa@gmail.com
+ Mail: PatataBurgesa@gmail.com
