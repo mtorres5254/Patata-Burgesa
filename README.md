@@ -32,9 +32,24 @@ Interesting documents:
   [Instructions for use](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions/English.pdf)
   
 
+## Coses en camí / Comming Updates.
+
+Tinc el plaer d'anunciar-vos que pròximament traurem per fi la Patata Burgesa "1a Edició", i que també llançarem el joc en producció.
+Mes endavant confirmarem tot el tema de les dates i de preus, però perquè pugueu anar fent un petit tast, us deixem aquí a sota la vista de la vila de les Muntanyes Patatils.
+
+I am pleased to announce that we will soon finally release the "1st Edition" of the "Patata Burgesa", and that we will also publish the game.
+Later we will confirm the whole issue of dates and prices, but to calm the wait, we leave you here below the view of the village of the Patatils Mountains.
+
+ ![](https://raw.githubusercontent.com/mtorres5254/Patata-Burgesa/master/Core%20Files/Coses%20Patatils/Monte%20Patatil.png)
+
+Podeu veure la informació en el nou video de Instagram.
+
+You can see all the info in the new Instagram post.
+
   
 ## Contacte / Contact:
  
  Instagram: @PatataBurgesa
  
  Mail: PatataBurgesa@gmail.com
+
