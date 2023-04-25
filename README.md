@@ -31,7 +31,7 @@ Interesting documents:
   
   [Instructions for use](https://github.com/mtorres5254/Patata-Burgesa/blob/master/Instructions/English.pdf)
   
-
+<<!--
 ## Coses en camí / Comming Updates.
 
 Tinc el plaer d'anunciar-vos que pròximament traurem per fi la Patata Burgesa "1a Edició", i que també llançarem el joc en producció.
@@ -45,11 +45,9 @@ Later we will confirm the whole issue of dates and prices, but to calm the wait,
 Podeu veure la informació en el nou video de Instagram.
 
 You can see all the info in the new Instagram post.
-
+-->>
   
 ## Contacte / Contact:
  
- Instagram: @PatataBurgesa
- 
- Mail: PatataBurgesa@gmail.com
+ mail: mtorres5254@gmail.com
 
